@@ -1,0 +1,28 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+.env.*
+
+# Datasets and large data files
+data/
+*.zip
+*.tar
+*.gz
+
+# Model weights
+*.pth
+*.pt
+*.ckpt
+*.safetensors
+
+# Model/cache directories
+checkpoints/
+models/
+.cache/
+huggingface/

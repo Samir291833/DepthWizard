@@ -1,0 +1,14 @@
+numpy
+scipy
+pandas
+scikit-learn
+opencv-python
+Pillow
+matplotlib
+rasterio
+torch
+transformers
+huggingface-hub
+fastapi
+uvicorn
+python-multipart
