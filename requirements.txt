@@ -1,14 +1,28 @@
+# Core numerical and scientific computing
+
 numpy
 scipy
 pandas
 scikit-learn
+
+# Image processing
+
 opencv-python
 Pillow
 matplotlib
+
+# Geospatial processing
+
 rasterio
+
+# Deep learning and model inference
+
 torch
 transformers
 huggingface-hub
+
+# Backend / API
+
 fastapi
 uvicorn
 python-multipart

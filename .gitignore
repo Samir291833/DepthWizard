@@ -26,3 +26,8 @@ checkpoints/
 models/
 .cache/
 huggingface/
+
+context/
+
+# Derived artifacts produced by the pipeline (depth, DSM, meshes, reports)
+outputs/
